@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/SALA-DE.PRENSA-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+       
+}
+
+.admin{
+    color: rgb(0, 0, 0);
+    background-color: #f1f1f1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10rem;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ff0202;
+    box-sizing: border-box;
+   
+}
